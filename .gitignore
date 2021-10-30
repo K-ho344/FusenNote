@@ -6,3 +6,6 @@
 build/
 /captures
 .externalNativeBuild
+/app/release
+/app/debug
+/app/build
